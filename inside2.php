@@ -1,10 +1,10 @@
 
 <?php 
-include("container.html") 
+include("container.php") 
  ?>
 
 <?php 
-include("sidebar.html") 
+include("sidebar.php") 
 
 ?>
 
@@ -236,5 +236,5 @@ include("sidebar.html")
 
 
 <?php 
-include("footer_social.html")
+include("footer_social.php")
 ?>

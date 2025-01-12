@@ -1,10 +1,10 @@
 <?php
-include("admin_container.html");
+include("admin_container.php");
 
 ?>
 
 <?php
-include("admin_sidebar.html");
+include("admin_sidebar.php");
 
 ?>
 
